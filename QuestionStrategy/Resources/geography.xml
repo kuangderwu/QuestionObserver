@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<questions>
+    <questionText>Is Taiwan in Asia?</questionText>
+    <questionPoint>10</questionPoint>
+    <questionAnswer>true</questionAnswer>
+</questions>
+<questions>
+    <questionText>Tainan in the capital of Taiwan?</questionText>
+    <questionPoint>10</questionPoint>
+    <questionAnswer>false</questionAnswer>
+</questions>
+<questions>
+    <questionText>Taiwan is in south of Japan?</questionText>
+    <questionPoint>10</questionPoint>
+    <questionAnswer>true</questionAnswer>
+</questions>

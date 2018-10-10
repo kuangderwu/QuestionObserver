@@ -1,0 +1,20 @@
+{
+    "questions":
+    [
+        {
+            "questionText": "Is 2+2 = 4?",
+            "questionPoint": 10,
+            "questionAnswer": true
+        },
+        {
+            "questionText": "Is 5+2 = 4?",
+            "questionPoint": 10,
+            "questionAnswer": false
+        },
+        {
+            "questionText": "Is 10+2 = 12?",
+            "questionPoint": 10,
+            "questionAnswer": true
+        }
+    ]
+}
